@@ -1,0 +1,33 @@
+<!------------------          client.html          ------------------>
+
+<html>
+  <head>
+    <script src="./script.js"></script>
+    <style >
+	.dossier{
+		color:blue;
+	}
+	.dossier:hover{
+		cursor: pointer;
+	}
+	.parent:hover{
+		cursor: pointer;
+	}
+	.tb{
+		display: inline-flex;
+	}
+	.droite{
+		display: contents;
+	}
+    </style>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+
+  <body>
+    <input id="searchBar" type="text" onchange="ask(this.value)"/>
+    <div id="rep" class="tb"><b>Réponse ici ...</b></div>
+    <div id="coloneDroite" class="droite"></div>
+
+
+  </body>
+</html>
