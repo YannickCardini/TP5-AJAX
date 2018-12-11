@@ -1,0 +1,6 @@
+Category: Spitfire
+Type: Fire
+Ability: Flame Body
+Weakness: Water, Rock, Ground
+Evolves from: Magby
+Evolves to: Magmortar
