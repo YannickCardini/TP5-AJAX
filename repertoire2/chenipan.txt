@@ -1,0 +1,6 @@
+Category: Worm
+Type: Bug
+Ability: Shield Dust
+Weakness: Rock, Flying, Fire
+Evolves to: Metapod
+Height: 30.5 cm
