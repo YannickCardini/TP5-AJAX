@@ -1,0 +1,6 @@
+Category: New Species
+Type: Psychic
+Ability: Synchronize
+Weakness: Dark, Bug, Ghost
+Height: 40.6 cm
+First appearance: Pokémon: The First Movie
